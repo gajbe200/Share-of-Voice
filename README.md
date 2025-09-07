@@ -1,4 +1,4 @@
-# Smart Fan Share of Voice (SoV) Analysis – Atomberg Internship
+# Smart Fan Share of Voice (SoV) Analysis – 
 
  
 It builds an AI agent that analyzes the **Share of Voice (SoV)** for Atomberg and its competitors in the *smart fan* category.  
